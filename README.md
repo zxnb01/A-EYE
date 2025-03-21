@@ -20,3 +20,7 @@ A-EYE is an innovative AI-powered assistive application designed to enhance the 
 🔹 **Depth Analysis** for distance estimation  
 
 A-EYE offers an **integrated solution** for both **navigation and medication management**, making daily life easier and safer for the visually impaired. 🚀
+
+## Documentation: 
+
+[A-EYE.pdf](https://drive.google.com/file/d/11EzKIkuEi5JMBia4ozAlxdEase8vhGdx/view?usp=sharing)
