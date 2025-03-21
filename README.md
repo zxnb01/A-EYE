@@ -1,16 +1,22 @@
-# a_eye
+# A-EYE: AI-Powered Assistive App for the Visually Impaired
 
-A new Flutter project.
+A-EYE is an innovative AI-powered assistive application designed to enhance the independence of visually challenged individuals. By leveraging **Computer Vision (CV), Optical Character Recognition (OCR), and depth analysis**, the app provides real-time assistance for **navigation and medication management**.
 
-## Getting Started
+## Key Features
 
-This project is a starting point for a Flutter application.
+✅ **E-Walking Stick**: Uses **depth analysis and object detection** to help users navigate obstacles and estimate distances in real-world environments.
 
-A few resources to get you started if this is your first Flutter project:
+✅ **Medication Assistance**: Employs **OCR technology** to recognize and read out medication details, ensuring correct dosage and adherence to prescriptions.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+✅ **Real-Time Object Detection**: Identifies surroundings and provides **audio/haptic feedback** for improved mobility.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+✅ **Accessible UI/UX**: Designed with **high contrast modes, text-to-speech**, and intuitive controls to ensure ease of use for visually impaired individuals.
+
+## Tech Stack
+
+🔹 **Flutter** for cross-platform development  
+🔹 **OpenCV & MobileNet V3** for object detection  
+🔹 **OCR (Tesseract)** for text extraction  
+🔹 **Depth Analysis** for distance estimation  
+
+A-EYE offers an **integrated solution** for both **navigation and medication management**, making daily life easier and safer for the visually impaired. 🚀
